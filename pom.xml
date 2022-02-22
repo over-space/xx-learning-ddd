@@ -21,6 +21,8 @@
         <module>xx-learning-ddd-application</module>
         <module>xx-learning-ddd-domain</module>
         <module>xx-learning-ddd-infrastructure</module>
+        <module>xx-learning-ddd-interface</module>
+        <module>xx-learning-ddd-demo</module>
     </modules>
 
 
